@@ -175,7 +175,6 @@
     //Sina Weibo URI scheme: sinaweibo
     
 //    [WeiboSDK registerApp:@"89214124"];
-//    test
     
     UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"ROFL"
                                                     message:@"Dee dee doo doo."

@@ -482,6 +482,7 @@
 					/Users/scb/Jason/Workspace/Matchismo/libWeiboSDK,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "BB735BDD-D442-4C0C-9313-FE96F5759051";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -500,6 +501,7 @@
 					/Users/scb/Jason/Workspace/Matchismo/libWeiboSDK,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "BB735BDD-D442-4C0C-9313-FE96F5759051";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
